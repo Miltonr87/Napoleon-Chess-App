@@ -1,0 +1,18 @@
+.tile {
+    display: grid;
+    place-content: center;
+    width: 100px;
+    height: 100px;
+}
+
+.dark-tile {
+    background-color: #c29600;
+}
+
+.white-tile {
+    background-color: #c8cbc0;
+}
+
+.tile img {
+    width: 80px;
+}
